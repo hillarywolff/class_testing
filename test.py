@@ -9,7 +9,7 @@ This is a temporary script file.
 
 print('Hello world!')
 
-x = 10
+x = 15
 
 print(x*2)
 
